@@ -1,0 +1,39 @@
+.cajaRelativa{
+    position:relative;
+    background-color: red;
+    width: 800px;
+    height: 800px;
+}
+
+.cajaAbsoluta1{
+    position: absolute;
+    background-color: black;
+    z-index: 1;
+    width: 300px;
+    height: 300px;
+    top: 218px;
+    left: 257px;
+    border-radius: 50%;
+}
+
+.cajaAbsoluta2{
+    position: absolute;
+    background-color:beige;
+    z-index: 2;
+    width: 164px;
+    height: 164px;
+    top: 160px;
+    left: 187px;
+    border-radius: 50%;
+}
+
+.cajaAbsoluta3{
+    position: absolute;
+    background-color: beige;
+    z-index: 2;
+    width: 164px;
+    height: 164px;
+    top: 160px;
+    left: 457px;
+    border-radius: 50%;
+}
