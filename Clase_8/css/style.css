@@ -1,0 +1,7 @@
+.myCol {
+    border: 2px solid white;
+    background-color: black;
+    color:white;
+    height: 60px;
+    border-radius: 10%;
+}

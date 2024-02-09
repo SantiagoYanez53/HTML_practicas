@@ -1,0 +1,77 @@
+
+
+
+.carousel-item {
+    height: 600px;
+}
+
+
+.card {
+    display:flex;
+    align-items:center;
+    left:400px;
+    top:60px;
+    border: 0;
+    position: relative;
+
+}
+
+.card2 {
+    left:850px;
+    top:-277px;
+    border: 0;
+    position: relative;
+}
+
+.card3 {
+    left:1300px;
+    top:-571px;
+    border: 0;
+    position: relative;
+}
+
+.col {
+    background-color: rgba(226, 226, 226, 0.281);
+    font-family:Arial, Helvetica, sans-serif;
+    height: 400px;
+    top: -400px;
+    border-radius: 3%;
+    position:relative;
+}
+
+.myCol {
+   background-image:url(https://isdfundacion.org/wp-content/uploads/2023/08/Estadistica-3.jpg);
+}
+
+.myCol2{
+    background-image: url(https://www.magisnet.com/wp-content/uploads/2023/11/Estadi%CC%81sticas-wp.jpg);
+}
+
+.myCol3 {
+    background-image: url(https://www.datacrm.com/upload/article/b/importancia_estadisticas_para_ventas.webp);
+}
+
+.colab {
+    margin-top: -350px;
+}
+
+.card4{
+    left:400px;
+    top:50px;
+    border: 0;
+    position: relative;
+}
+
+.card5 {
+    left:850px;
+    top:-355px;
+    border: 0;
+    position: relative;
+}
+
+.card6 {
+    left:1300px;
+    top:-793px;
+    border: 0;
+    position: relative;
+}
